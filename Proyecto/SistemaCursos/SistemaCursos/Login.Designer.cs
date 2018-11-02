@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txt_Usr = new System.Windows.Forms.TextBox();
+            this.txt_Pass = new System.Windows.Forms.TextBox();
             this.btn_Ingresar = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -46,19 +46,20 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Usuario:";
             // 
-            // textBox1
+            // txt_Usr
             // 
-            this.textBox1.Location = new System.Drawing.Point(34, 84);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(185, 20);
-            this.textBox1.TabIndex = 1;
+            this.txt_Usr.Location = new System.Drawing.Point(34, 84);
+            this.txt_Usr.Name = "txt_Usr";
+            this.txt_Usr.Size = new System.Drawing.Size(185, 20);
+            this.txt_Usr.TabIndex = 1;
             // 
-            // textBox2
+            // txt_Pass
             // 
-            this.textBox2.Location = new System.Drawing.Point(34, 145);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(185, 20);
-            this.textBox2.TabIndex = 2;
+            this.txt_Pass.Location = new System.Drawing.Point(34, 145);
+            this.txt_Pass.Name = "txt_Pass";
+            this.txt_Pass.PasswordChar = '*';
+            this.txt_Pass.Size = new System.Drawing.Size(185, 20);
+            this.txt_Pass.TabIndex = 2;
             // 
             // btn_Ingresar
             // 
@@ -105,8 +106,8 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.btn_Ingresar);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txt_Pass);
+            this.Controls.Add(this.txt_Usr);
             this.Controls.Add(this.label1);
             this.Name = "Login";
             this.Text = "Iniciar Sesion ";
@@ -119,8 +120,8 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txt_Usr;
+        private System.Windows.Forms.TextBox txt_Pass;
         private System.Windows.Forms.Button btn_Ingresar;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
