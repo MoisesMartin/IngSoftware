@@ -1,0 +1,10 @@
+C:\Users\Moises Martin Campos\Desktop\CuatrimestreFinal\Ing.Software\IngSoftware\Proyecto\SistemaCursos\SistemaCursos\bin\Debug\SistemaCursos.exe.config
+C:\Users\Moises Martin Campos\Desktop\CuatrimestreFinal\Ing.Software\IngSoftware\Proyecto\SistemaCursos\SistemaCursos\bin\Debug\SistemaCursos.exe
+C:\Users\Moises Martin Campos\Desktop\CuatrimestreFinal\Ing.Software\IngSoftware\Proyecto\SistemaCursos\SistemaCursos\bin\Debug\SistemaCursos.pdb
+C:\Users\Moises Martin Campos\Desktop\CuatrimestreFinal\Ing.Software\IngSoftware\Proyecto\SistemaCursos\SistemaCursos\obj\Debug\SistemaCursos.csprojResolveAssemblyReference.cache
+C:\Users\Moises Martin Campos\Desktop\CuatrimestreFinal\Ing.Software\IngSoftware\Proyecto\SistemaCursos\SistemaCursos\obj\Debug\SistemaCursos.Properties.Resources.resources
+C:\Users\Moises Martin Campos\Desktop\CuatrimestreFinal\Ing.Software\IngSoftware\Proyecto\SistemaCursos\SistemaCursos\obj\Debug\SistemaCursos.csproj.GenerateResource.Cache
+C:\Users\Moises Martin Campos\Desktop\CuatrimestreFinal\Ing.Software\IngSoftware\Proyecto\SistemaCursos\SistemaCursos\obj\Debug\SistemaCursos.csproj.CoreCompileInputs.cache
+C:\Users\Moises Martin Campos\Desktop\CuatrimestreFinal\Ing.Software\IngSoftware\Proyecto\SistemaCursos\SistemaCursos\obj\Debug\SistemaCursos.exe
+C:\Users\Moises Martin Campos\Desktop\CuatrimestreFinal\Ing.Software\IngSoftware\Proyecto\SistemaCursos\SistemaCursos\obj\Debug\SistemaCursos.pdb
+C:\Users\Moises Martin Campos\Desktop\CuatrimestreFinal\Ing.Software\IngSoftware\Proyecto\SistemaCursos\SistemaCursos\obj\Debug\SistemaCursos.Login.resources
